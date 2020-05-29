@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">JosePardoExamen</string>
+
+    <string name="ivUisrael">logoUIsrael</string>
+
+    <string name="tvUsuario">Usuario:</string>
+    <string name="etUsuario">Ingrese Usuario</string>
+
+    <string name="tvContrasena">Contraseña:</string>
+    <string name="etContrasena">Ingrese Contraseña</string>
+
+    <string name="btnIngresar">Ingresar</string>
+
+    <string name="tvNombre">Nombre:</string>
+    <string name="etNombre">Ingrese Nombre</string>
+
+    <string name="tvMontoInicial">Monto Inicial:</string>
+    <string name="etMontoInicial">Ingrese Monto Inicial</string>
+
+    <string name="tvPagoMensual">Pago Mensual:</string>
+    <string name="etPagoMensual"></string>
+
+    <string name="btnCalcular">Calcular</string>
+    <string name="btnGuardar">Guardar</string>
+
+    <string name="tvTotal">Total a pagar:</string>
+
+    <string name="tvPregunta1">¿Por qué eligió este centro?</string>
+    <string name="etEspecifique">Especifique...</string>
+    <string name="tvPregunta2">¿Qué deportes practica?</string>
+    <string name="tvPregunta3">¿Está interesado en aprender otro idioma aparte de inglés?</string>
+    <string name="btnEnviar">Enviar</string>
+
+</resources>
